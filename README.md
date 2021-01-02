@@ -1,3 +1,5 @@
+Posted On [Github](https://github.com/lukibsubekti/assignment-12)
+
 # OOP Benefit for Application
 OOP can help application for generating & maintaining entities which are used during lifecycle of the application. The entities may be plentiful and have similiraties with one another. A program entity can be seen as a real-world object that has attributes/traits and capabilities/procedures that can be run. OOP also enables an entity to inherit its attributes to other entities. This can be helpful in refactoring and classification of entities.  
 
